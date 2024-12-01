@@ -77,10 +77,6 @@ body{
 
 
 /* SECTION */
-section{
-
-}
-
 
 #course-content {
     height: 325px;
@@ -147,9 +143,6 @@ section{
 
 /* FIM-SECTION 2*/
 
-
-
-
 /* SECTION 3*/
 #professional-challenges{
     min-height: 800px;
@@ -206,21 +199,4 @@ footer p a{
     text-decoration: none;
 }
 
-
 /* FIM-FOOTER */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* FIM-SECTION 3*/
